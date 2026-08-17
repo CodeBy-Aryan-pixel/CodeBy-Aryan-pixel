@@ -132,11 +132,7 @@ I'm **Aryan Kamat**, a final-year **Computer Science & Engineering (Data Science
 
 
 
-# 🐍 Watch My Contributions Get Eaten!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodeBy-Aryan-pixel/CodeBy-Aryan-pixel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
@@ -229,7 +225,7 @@ Power BI
 # 📄 Resume
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://drive.google.com/file/d/1N3iP5n5oqEuebwWPHp-my-F6etMdSKlg/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download%20My%20Resume-0E75B6?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
